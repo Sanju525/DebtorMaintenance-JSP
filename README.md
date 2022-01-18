@@ -30,5 +30,5 @@ Note: If there are any problems occured regarding url path follow the below step
 #### In IntellijIDEA
 1. Open Tomcat edit configuration.
 2. goto deployement tab beside server tab.
-3. remove the text from the "Application context" field and save.
+3. remove the text from the ```Application context``` field and save.
 4. Re-run the project.
